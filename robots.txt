@@ -1,3 +1,2 @@
-# robotstxt.org/
-
-User-agent: *
+Robots are the new future 
+You must befriend with the robots
